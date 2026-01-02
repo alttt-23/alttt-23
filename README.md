@@ -2,7 +2,7 @@
 
 💻 Aspiring Dev | Detail-Oriented  
 
-<div style="margin-top: 2em;"></div>
+<div style="margin-top: 2.5em;"></div>
 
 <h2>My Stack</h2>
 
@@ -13,7 +13,7 @@
 ✺ LM Studio & LLaMA  
 ✺ VS Code
 
-<div style="margin-top: 2em;"></div>
+<div style="margin-top: 2.5em;"></div>
 
 <h2>Focus Areas</h2>
 
@@ -24,8 +24,8 @@
 ✺ UI/UX & Product Design  
 ✺ Algorithmic Thinking
 
-<div style="margin-top: 2em;"></div>
+<div style="margin-top: 2.5em;"></div>
 
-<h2>💬 Get in Touch</h2>
+<h2>Get in Touch 💬</h2>
 
-<p align="center"><nobr><a href="https://www.linkedin.com/in/favour-nde-89a52639a?trk=contact-info"><sub><img src="Icons/LinkedIn.PNG" width="45" height="45"></sub></a>&nbsp;&nbsp;&nbsp;<a href="mailto:favour7asongwe@icloud.com"><sub><img src="Icons/Mail.PNG" width="45" height="45"></sub></a>&nbsp;&nbsp;&nbsp;<a href="https://wa.me/237680567034"><sub><img src="Icons/WhatsApp.PNG" width="45" height="45"></sub></a>&nbsp;&nbsp;&nbsp;<a href="https://dev.to/favour7"><sub><img src="Icons/dev.to.PNG" width="45" height="45"></sub></a>&nbsp;&nbsp;&nbsp;<a href="https://www.snapchat.com/add/qntxlc"><sub><img src="Icons/Snapchat.PNG" width="45" height="45"></sub></a></nobr></p>
+<p align="center"><nobr><a href="https://www.linkedin.com/in/favour-nde-89a52639a?trk=contact-info"><sub><img src="Icons/LinkedIn.PNG" width="50" height="50"></sub></a>&nbsp;&nbsp;&nbsp;<a href="mailto:favour7asongwe@icloud.com"><sub><img src="Icons/Mail.PNG" width="50" height="50"></sub></a>&nbsp;&nbsp;&nbsp;<a href="https://wa.me/237680567034"><sub><img src="Icons/WhatsApp.PNG" width="50" height="50"></sub></a>&nbsp;&nbsp;&nbsp;<a href="https://dev.to/favour7"><sub><img src="Icons/dev.to.PNG" width="50" height="50"></sub></a>&nbsp;&nbsp;&nbsp;<a href="https://www.snapchat.com/add/qntxlc"><sub><img src="Icons/Snapchat.PNG" width="50" height="50"></sub></a></nobr></p>
